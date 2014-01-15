@@ -1,0 +1,1 @@
+﻿(New-Object System.Drawing.Text.InstalledFontCollection).Families
